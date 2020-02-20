@@ -1,0 +1,18 @@
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+
+}
+
+div{
+    border: 1px solid red;
+    text-align: center;
+}
+p{
+    color: green;
+}
+.text1{
+    color: blue
+    front-size: 40px
+}
